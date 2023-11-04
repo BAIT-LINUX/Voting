@@ -1,3 +1,3 @@
 <?php
-header("Location: Pilih");
+header("Location: Users/Pilih");
 ?>
