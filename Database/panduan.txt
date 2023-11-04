@@ -1,0 +1,3 @@
+Nama DB Admin = admin
+Nama DB Login = login
+Nama DB Pilih = pemilu
