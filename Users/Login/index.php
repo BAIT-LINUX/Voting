@@ -39,7 +39,7 @@ if (isset($_POST['submit'])) {
                     <div class="inputbox">
                         <ion-icon name="mail-outline"></ion-icon>
                         <input type="text" placeholder="Kelas" name="name" required>
-                        <label for="">Nama</label>
+                        <label for="">Kelas</label>
                     </div>
                     <div class="inputbox">
                         <ion-icon name="lock-closed-outline"></ion-icon>
